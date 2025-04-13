@@ -1,0 +1,3 @@
+﻿OrderID,OrderDate,CustomerID,CustomerName,CustomerEmail,ProductID,ProductName,ProductCategory,RegionID,RegionName,Country,Quantity,UnitPrice,TotalAmount
+9,2/9/2024,107,Grace White,grace@example.com,208,Keyboard,Accessories,303,Asia,Japan,3,100,300
+10,2/10/2024,104,David Lee,david@example.com,209,Mouse,Accessories,301,North America,USA,1,50,50

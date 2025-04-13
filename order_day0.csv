@@ -1,0 +1,9 @@
+﻿OrderID,OrderDate,CustomerID,CustomerName,CustomerEmail,ProductID,ProductName,ProductCategory,RegionID,RegionName,Country,Quantity,UnitPrice,TotalAmount
+1,2/1/2024,101,Alice Johnson,alice@example.com,201,Laptop,Electronics,301,North America,USA,2,800,1600
+2,2/2/2024,102,Bob Smith,bob@example.com,202,Smartphone,Electronics,302,Europe,Germany,1,500,500
+3,2/3/2024,103,Charlie Brown,charlie@example.com,203,Tablet,Electronics,303,Asia,India,3,300,900
+4,2/4/2024,101,Alice Johnson,alice@example.com,204,Headphones,Accessories,301,North America,USA,1,150,150
+5,2/5/2024,104,David Lee,david@example.com,205,Gaming Console,Electronics,302,Europe,France,1,400,400
+6,2/6/2024,102,Bob Smith,bob@example.com,206,Smartwatch,Electronics,303,Asia,China,2,200,400
+7,2/7/2024,105,Eve Adams,eve@example.com,201,Laptop,Electronics,301,North America,Canada,1,800,800
+8,2/8/2024,106,Frank Miller,frank@example.com,207,Monitor,Accessories,302,Europe,Italy,2,250,500
